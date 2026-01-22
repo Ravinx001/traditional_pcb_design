@@ -376,7 +376,7 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](./
 
 **Project Maintainer**  
 📧 Email: [rav.business.lak@gmail.com]  
-🐙 GitHub: [@Ravinx001](https://github.com/Ravinx001)
+🐙 GitHub: [@Ravinx001](https://github.com/Ravinx001) <br>
 💼 LinkedIn: [https://www.linkedin.com/in/ravindu-amarasekara/]
 
 **Community**  
