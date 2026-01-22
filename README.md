@@ -11,10 +11,10 @@
 <img src="https://img.shields.io/badge/Fabrication-Traditional_Etching-green" alt="Traditional Etching">
 <br>
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/traditional_pcb_design?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/github/stars/yourusername/traditional_pcb_design?style=for-the-badge)
-  ![GitHub forks](https://img.shields.io/github/forks/yourusername/traditional_pcb_design?style=for-the-badge)
-  ![GitHub issues](https://img.shields.io/github/issues/yourusername/traditional_pcb_design?style=for-the-badge)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Ravinx001/traditional_pcb_design?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/Ravinx001/traditional_pcb_design?style=for-the-badge)
+  ![GitHub forks](https://img.shields.io/github/forks/Ravinx001/traditional_pcb_design?style=for-the-badge)
+  ![GitHub issues](https://img.shields.io/github/issues/Ravinx001/traditional_pcb_design?style=for-the-badge)
 </div>
 
 ---
